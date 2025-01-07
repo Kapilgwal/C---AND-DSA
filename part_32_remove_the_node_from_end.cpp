@@ -96,4 +96,6 @@ int main()
     // and print the modified linked list
     head = DeleteNthNodefromEnd(head, N);
     printLL(head);
+
+    return 0;
 }
